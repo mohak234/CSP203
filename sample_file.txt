@@ -1,3 +1,4 @@
 
 Conflicting change on master branch
 Conflicting change on master branch
+Change on edit_sample_file branch
